@@ -1,3 +1,11 @@
+To run the code, make sure that you install all packages that the project is using. The project is using the following packages: 
+- numpy
+- nltk
+- sklearn
+
+To ensure that you install the packages above, run the following command on your console: 
+python -m pip install --user numpy nltk sklearn
+
 This project is to perform authorship identification on sample sentences from three horror authors authors HP Lovecraft (HPL), Mary Wollstonecraft Shelley (MWS), and Edgar Allen Poe (EAP).
 
 The project was created for a sample contest on Kaggle:
