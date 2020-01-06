@@ -6,6 +6,9 @@ import operator
 import sklearn
 from sklearn.naive_bayes import MultinomialNB
 
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+
 sentence_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 word_tokenizer = nltk.tokenize.RegexpTokenizer(r'\w+')
 
