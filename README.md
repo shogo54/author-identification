@@ -1,7 +1,5 @@
 # Author Identification
 
-## About the Project
-
 This project is to perform authorship identification on sample sentences from three horror authors authors HP Lovecraft (HPL), Mary Wollstonecraft Shelley (MWS), and Edgar Allen Poe (EAP).
 
 The project was created for a sample contest on [Kaggle](https://www.kaggle.com/c/spooky-author-identification)
@@ -26,14 +24,13 @@ To ensure that you install the packages above, run the following command on your
 
 ## Acknowledgements
 
-The implementation is inspired from the following article:
-http://www.aicbt.com/authorship-attribution
+The implementation is inspired from the following article:<br/>
+- http://www.aicbt.com/authorship-attribution
 
 ## Future References
 
 in the future, I can apply a neural network based approach to this project. 
-The artilces bellow might be useful:
-
-https://arxiv.org/pdf/1506.04891.pdf
-https://cs224d.stanford.edu/reports/MackeStephen.pdf
-http://www.aclweb.org/anthology/E17-2106
+The artilces bellow might be useful:<br/>
+- https://arxiv.org/pdf/1506.04891.pdf
+- https://cs224d.stanford.edu/reports/MackeStephen.pdf
+- http://www.aclweb.org/anthology/E17-2106
