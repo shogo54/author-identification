@@ -28,7 +28,7 @@ To ensure that you install the packages above, run the following command on your
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`][license-url] for more information.
 
 
 
@@ -62,6 +62,7 @@ The artilces bellow might be useful:<br/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [project-url]: https://github.com/shogo54/author-identification/
+[license-url]: https://github.com/shogo54/author-identification/license
 [numpy-url]: https://numpy.org/
 [sklearn-url]: https://scikit-learn.org/
 [nltk-url]: https://www.nltk.org/
