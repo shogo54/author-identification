@@ -62,7 +62,7 @@ The artilces bellow might be useful:<br/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [project-url]: https://github.com/shogo54/author-identification/
-[license-url]: blob/master/LICENSE
+[license-url]: LICENSE
 [numpy-url]: https://numpy.org/
 [sklearn-url]: https://scikit-learn.org/
 [nltk-url]: https://www.nltk.org/
