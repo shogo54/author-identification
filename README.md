@@ -4,10 +4,22 @@ This project is to perform authorship identification on sample sentences from th
 
 The project was created for a sample contest on [Kaggle](https://www.kaggle.com/c/spooky-author-identification)
 
+
+
+
+<!-- implementation details -->
+## Implementation Details
+
+The classifier is based on Naive Bayes, and will feed the training data and predict each of the unknown sentences.
+
 The project includes the training and testing data files. 
 The training data is labeled with the author of each sentence, while the test data is not labeled.
 
-The classifier is based on Naive Bayes, and will feed the training data and predict each of the unknown sentences.
+The followings are the feature vectors that the program uses for prediction.
+1. bag of words (I put all of the training texts into lists labeled with author and create bag of words based on it. Then read each test text and classify it with bag of words)
+2. parts of speech (syntax features)
+3. lexical features (average number of words per a sentence, sentence length variation, and lexical diversity)
+4. punctuation features  (commas, semicolons, and colons per a sentence)
 
 
 
