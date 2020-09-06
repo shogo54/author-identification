@@ -16,8 +16,8 @@ The classifier is based on Naive Bayes, and will feed the training data and pred
 
 To run the code, make sure that you install all packages that the project is using. The project is using the following packages: 
 - [numpy][numpy-url]
-- nltk
-- sklearn
+- [nltk][nltk-url]
+- [sklearn][sklearn-url]
 
 To ensure that you install the packages above, run the following command on your console: 
 
@@ -37,7 +37,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Shogo Akiyama - shogo.a.0504@gmail.com
 
-Project Link: [project-url]
+Project Link: [https://github.com/shogo54/author-identification][project-url]
 
 
 
@@ -61,5 +61,7 @@ The artilces bellow might be useful:<br/>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[project-url]: https://github.com/shogo54/author-identification
+[project-url]: https://github.com/shogo54/author-identification/
 [numpy-url]: https://numpy.org/
+[sklearn-url]: https://scikit-learn.org/
+[nltk-url]: https://www.nltk.org/
