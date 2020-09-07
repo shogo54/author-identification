@@ -1,9 +1,8 @@
 # Author Identification
 
-This project is to perform authorship identification on sample sentences from three horror authors HP Lovecraft (HPL), Mary Wollstonecraft Shelley (MWS), and Edgar Allen Poe (EAP).
+This is a machine learning program to perform authorship identification on sample sentences from three horror authors HP Lovecraft (HPL), Mary Wollstonecraft Shelley (MWS), and Edgar Allen Poe (EAP).
 
 The project was created for a sample contest on [Kaggle](https://www.kaggle.com/c/spooky-author-identification)
-
 
 
 
